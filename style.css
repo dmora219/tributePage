@@ -1,0 +1,73 @@
+html{
+   background-color: #f5f5f5;
+}
+
+body{
+   width: 80%;
+   margin: 0 auto;
+}
+
+
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+  }
+  
+  ol {
+    padding-left: 20px;
+  }
+  
+  .year {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+
+  .kobe-section, .quote{
+   text-align: center;
+   border: 2px solid black;
+  }
+  .kobe-section{
+   padding: 20px;
+   
+  }
+  .quote{
+   background-color: black;
+   color: white;
+  }
+  img{
+   border-radius: 50%;
+  }
+
+  .life-section{
+   width: 80%;
+   border: 2px solid black;
+   margin: 10px auto;
+   padding-left: 10px;
+   padding-right: 10px;
+   font-weight: bold;
+  }
